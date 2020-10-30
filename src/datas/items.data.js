@@ -4,8 +4,8 @@ const ITEM_DATA = [
         name: '紅色藥水',
         type: 'item',
         description: '將紅色藥草搗碎製成的體力恢復劑，HP恢復45。',
-        image: '/images/items/빨간포션.png',
-        icon: '/images/items/빨간포션 (1).png',
+        image: 'images/items/빨간포션.png',
+        icon: 'images/items/빨간포션 (1).png',
         gravity: 7
     },
     {
