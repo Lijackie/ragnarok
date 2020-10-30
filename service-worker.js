@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ragnarok/precache-manifest.38e3163992a00069d628b313b519bfbb.js"
+  "/ragnarok/precache-manifest.852d72c42edf520104e56ab8a4e68a5f.js"
 );
 
 self.addEventListener('message', (event) => {
