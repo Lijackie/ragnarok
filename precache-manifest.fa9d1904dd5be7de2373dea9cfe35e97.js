@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77a704f7bfccffba1649d45a35654308",
+    "revision": "aeb94c0649180b74d6b59103f2ef2164",
     "url": "/ragnarok/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ragnarok/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "f8335986f6764f02ec4f",
+    "revision": "2c0458a539aad47d75b8",
     "url": "/ragnarok/static/css/main.031dda2a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ragnarok/static/js/2.7ad02d92.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8335986f6764f02ec4f",
-    "url": "/ragnarok/static/js/main.0e31d397.chunk.js"
+    "revision": "2c0458a539aad47d75b8",
+    "url": "/ragnarok/static/js/main.100a0bcf.chunk.js"
   },
   {
     "revision": "860e40729ffc4d7e1fca",
