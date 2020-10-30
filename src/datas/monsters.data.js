@@ -9,8 +9,8 @@ const MONSTER_DATA = [
         attribute: '水1',
         def: '~2',
         mdef: '~5',
-        image: '/images/monster/poring.gif',
-        icon: '/images/monster/poring.gif'
+        image: 'images/monster/poring.gif',
+        icon: 'images/monster/poring.gif'
     },
     {
         id: '2',
@@ -22,8 +22,8 @@ const MONSTER_DATA = [
         attribute: '毒1',
         def: '~2',
         mdef: '~5',
-        image: '/images/monster/poporing.gif',
-        icon: '/images/monster/poporing.gif'
+        image: 'images/monster/poporing.gif',
+        icon: 'images/monster/poporing.gif'
     },
     {
         id: '3',
@@ -35,8 +35,8 @@ const MONSTER_DATA = [
         attribute: '聖1',
         def: '~2',
         mdef: '~5',
-        image: '/images/monster/poring_.gif',
-        icon: '/images/monster/poring_.gif'
+        image: 'images/monster/poring_.gif',
+        icon: 'images/monster/poring_.gif'
     },
     {
         id: '4',
@@ -48,8 +48,8 @@ const MONSTER_DATA = [
         attribute: '火1',
         def: '~2',
         mdef: '~5',
-        image: '/images/monster/poring_.gif',
-        icon: '/images/monster/poring_.gif'
+        image: 'images/monster/poring_.gif',
+        icon: 'images/monster/poring_.gif'
     },
     {
         id: '5',
@@ -61,8 +61,8 @@ const MONSTER_DATA = [
         attribute: '聖4',
         def: '~2',
         mdef: '~5',
-        image: '/images/monster/angeling.gif',
-        icon: '/images/monster/angeling.gif'
+        image: 'images/monster/angeling.gif',
+        icon: 'images/monster/angeling.gif'
     },
 ]
 
