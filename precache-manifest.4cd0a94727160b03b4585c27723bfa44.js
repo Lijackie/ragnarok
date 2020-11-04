@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e35efd69557dca97b8814ae4ab61513b",
+    "revision": "ccfb3afbeea2d8b7d1b8dd596d4d1b76",
     "url": "/ragnarok/index.html"
   },
   {
-    "revision": "681f0a3d4ce068de1950",
+    "revision": "c6f4f19ac74d81795fb9",
     "url": "/ragnarok/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "350aea351d3c735fbf54",
+    "revision": "827c8bba01f911696e82",
     "url": "/ragnarok/static/css/main.031dda2a.chunk.css"
   },
   {
-    "revision": "681f0a3d4ce068de1950",
-    "url": "/ragnarok/static/js/2.7ad02d92.chunk.js"
+    "revision": "c6f4f19ac74d81795fb9",
+    "url": "/ragnarok/static/js/2.cfa6affa.chunk.js"
   },
   {
     "revision": "0fc61ce0ee2d491f41ee7634c63d9b90",
-    "url": "/ragnarok/static/js/2.7ad02d92.chunk.js.LICENSE.txt"
+    "url": "/ragnarok/static/js/2.cfa6affa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "350aea351d3c735fbf54",
-    "url": "/ragnarok/static/js/main.15d32f33.chunk.js"
+    "revision": "827c8bba01f911696e82",
+    "url": "/ragnarok/static/js/main.dd742383.chunk.js"
   },
   {
     "revision": "860e40729ffc4d7e1fca",
